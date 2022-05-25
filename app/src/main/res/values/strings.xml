@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Penghitung Rokok</string>
+    <string name="penghitung_rokok">Penghitung Rokok</string>
+    <string name="jenis_rokok">Jenis Rokok</string>
+    <string name="hitung">Hitung</string>
+    <string name="setengah_bungkus">Setengah bungkus</string>
+    <string name="_3_batang">3 Batang</string>
+    <string name="_1_batang">1 Batang</string>
+    <string name="cek">cek</string>
+    <string name="_01_sampoerna">01 : Sampoerna</string>
+    <string name="_02_garpit">02 : Garpit</string>
+    <string name="_03_surya">03 : Surya</string>
+    <string name="harga">Harga :</string>
+    <string name="reset">Reset</string>
+
+    <array name="jenis_rokok">
+        <item>Sampoerna</item>
+        <item>Garpit</item>
+        <item>Signature</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
